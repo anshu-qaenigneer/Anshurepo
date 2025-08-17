@@ -1,3 +1,3 @@
 # Anshurepo
 this is my practice repository
-Author-anshu sharma
+Author-anshu sharma(Python automation tester)
